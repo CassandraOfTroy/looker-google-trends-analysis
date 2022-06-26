@@ -21,6 +21,3 @@ explore: international_top_terms {
 
 }
 
-
-
-explore: international_top_rising_terms {}
