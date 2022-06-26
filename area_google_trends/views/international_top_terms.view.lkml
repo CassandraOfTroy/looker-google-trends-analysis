@@ -4,9 +4,7 @@ view: international_top_terms {
           *
         FROM
           `bigquery-public-data.google_trends.international_top_terms`
-        --WHERE
-        --refresh_date = DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY)
-          ;;
+        ;;
   }
 
 ####
